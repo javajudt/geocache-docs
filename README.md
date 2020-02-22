@@ -18,6 +18,8 @@ geocache-docs
 
 Replace `label-type` with a concise name of your label. If you don't use Microsoft Word, feel free to submit a PR with your file of choice.
 
+If you choose to use graphics trademarked by Geocaching on a new label, it must be unmodified; and it must come from an [official logo kit](https://www.geocaching.com/about/logousage.aspx). Use of the Geocaching logo is governed by the [Geocaching Logo Usage Guidelines](https://www.geocaching.com/about/logousage.aspx). You must have permission to use graphics that are trademarked by other entities.
+
 ## Legal
 
 Documents in this repository are licensed under [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
