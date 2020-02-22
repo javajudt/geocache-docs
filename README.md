@@ -24,4 +24,4 @@ Documents in this repository are licensed under [GNU General Public License v3.0
 
 The README file for each type of label will refer to the specific brand and style of label that the file was designed for. This is not an endorsement or advertisement of the given brand. They have not asked to be named, and I am not receiving any compensation for naming them.
 
-The [Geocaching](www.geocaching.com) logo is a registered trademark of Groundspeak, Inc. DBA Geocaching. Used with permission.
+The [Geocaching](https://www.geocaching.com) logo is a registered trademark of Groundspeak, Inc. DBA Geocaching. Used with permission.
