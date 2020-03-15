@@ -29,13 +29,11 @@ You may also specify a specific height or width for the image, in pixels. The gr
 <img alt="EarthCache Master: Platinum" width="150" src="https://raw.githubusercontent.com/javajudt/geocache-docs/master/assets/Earthcache/svg/ecm-platinum.svg?sanitize=true" />
 ```
 
-<div style="text-align:center;">
-    <p>
-        <img alt="Nebraskache" src="https://raw.githubusercontent.com/javajudt/geocache-docs/master/assets/Organizations/png/nebraskache-t.png" />
-        <img alt="EarthCache Master: Platinum" src="https://raw.githubusercontent.com/javajudt/geocache-docs/master/assets/Earthcache/svg/ecm-platinum.svg?sanitize=true" />
-    </p>
-    <p>
-        <img alt="Nebraskache" height="50" src="https://raw.githubusercontent.com/javajudt/geocache-docs/master/assets/Organizations/png/nebraskache-t.png" />
-        <img alt="EarthCache Master: Platinum" width="150" src="https://raw.githubusercontent.com/javajudt/geocache-docs/master/assets/Earthcache/svg/ecm-platinum.svg?sanitize=true" />
-    </p>
-</div>
+<p>
+    <img alt="Nebraskache" src="/assets/Organizations/png/nebraskache-t.png" />
+    <img alt="EarthCache Master: Platinum" src="/assets/Earthcache/svg/ecm-platinum.svg" />
+</p>
+<p>
+    <img alt="Nebraskache" height="50" src="/assets/Organizations/png/nebraskache-t.png" />
+    <img alt="EarthCache Master: Platinum" width="150" src="/assets/Earthcache/svg/ecm-platinum.svg" />
+</p>
